@@ -1,0 +1,142 @@
+UserID: 927996339 | Time: 2024-06-26 14:28:40.509348 | Command: /bgmi | Target: 20.204.17.105 | Port: 24571 | Time: 180
+UserID: 927996339 | Time: 2024-06-26 14:31:13.289524 | Command: /bgmi | Target: 20.204.17.105 | Port: 24571 | Time: 180
+Username: @deexyzfujf
+Target: 20.204.17.105
+Port: 24571
+Time: 180
+
+UserID: 927996339 | Time: 2024-06-26 14:53:13.916168 | Command: /bgmi | Target: 20.219.165.135 | Port: 13790 | Time: 180
+Username: @deexyzfujf
+Target: 20.219.165.135
+Port: 13790
+Time: 180
+
+UserID: 927996339 | Time: 2024-06-26 14:56:20.184440 | Command: /bgmi | Target: 20.219.165.135 | Port: 13790 | Time: 180
+UserID: 927996339 | Time: 2024-06-26 14:56:32.338260 | Command: /bgmi | Target: 20.219.165.135 | Port: 13790 | Time: 180
+Username: @deexyzfujf
+Target: 20.219.165.135
+Port: 13790
+Time: 180
+
+UserID: 927996339 | Time: 2024-06-26 15:12:55.852365 | Command: /bgmi | Target: 20.219.7.23 | Port: 13038 | Time: 180
+Username: @deexyzfujf
+Target: 20.219.7.23
+Port: 13038
+Time: 180
+
+UserID: 927996339 | Time: 2024-06-26 15:16:00.358856 | Command: /bgmi | Target: 20.219.7.23 | Port: 13038 | Time: 180
+Username: @deexyzfujf
+Target: 20.219.7.23
+Port: 13038
+Time: 180
+
+UserID: 927996339 | Time: 2024-06-26 15:32:25.431884 | Command: /bgmi | Target: 20.219.163.210 | Port: 12621 | Time: 180
+Username: @deexyzfujf
+Target: 20.219.163.210
+Port: 12621
+Time: 180
+
+UserID: 927996339 | Time: 2024-06-26 15:35:33.347333 | Command: /bgmi | Target: 20.219.163.210 | Port: 12621 | Time: 180
+Username: @deexyzfujf
+Target: 20.219.163.210
+Port: 12621
+Time: 180
+
+UserID: 927996339 | Time: 2024-06-27 03:27:17.391397 | Command: /bgmi | Target: 4.213.64.123 | Port: 29129 | Time: 180
+Username: @deexyzfujf
+Target: 4.213.64.123
+Port: 29129
+Time: 180
+
+UserID: 927996339 | Time: 2024-06-27 03:30:23.363313 | Command: /bgmi | Target: 4.213.64.123 | Port: 29129 | Time: 180
+Username: @deexyzfujf
+Target: 4.213.64.123
+Port: 29129
+Time: 180
+
+UserID: 927996339 | Time: 2024-06-27 03:44:20.236935 | Command: /bgmi | Target: 4.247.21.77 | Port: 25633 | Time: 180
+Username: @deexyzfujf
+Target: 4.247.21.77
+Port: 25633
+Time: 180
+
+UserID: 927996339 | Time: 2024-06-27 03:47:27.681394 | Command: /bgmi | Target: 4.247.21.77 | Port: 25633 | Time: 120
+Username: @deexyzfujf
+Target: 4.247.21.77
+Port: 25633
+Time: 120
+
+UserID: 927996339 | Time: 2024-06-27 16:44:11.179419 | Command: /bgmi | Target: 20.235.150.68 | Port: 13997 | Time: 180
+Username: @deexyzfujf
+Target: 20.235.150.68
+Port: 13997
+Time: 180
+
+UserID: 927996339 | Time: 2024-06-27 16:47:20.432226 | Command: /bgmi | Target: 20.235.150.68 | Port: 13997 | Time: 180
+Username: @deexyzfujf
+Target: 20.235.150.68
+Port: 13997
+Time: 180
+
+UserID: 927996339 | Time: 2024-06-27 16:54:12.171297 | Command: /bgmi | Target: 20.198.107.137 | Port: 17286 | Time: 180
+Username: @deexyzfujf
+Target: 20.198.107.137
+Port: 17286
+Time: 180
+
+UserID: 927996339 | Time: 2024-06-27 16:57:21.813471 | Command: /bgmi | Target: 20.198.107.137 | Port: 17286 | Time: 120
+Username: @deexyzfujf
+Target: 20.198.107.137
+Port: 17286
+Time: 120
+
+UserID: 927996339 | Time: 2024-06-27 17:04:46.258844 | Command: /bgmi | Target: 20.219.21.162 | Port: 26562 | Time: 180
+Username: @deexyzfujf
+Target: 20.219.21.162
+Port: 26562
+Time: 180
+
+UserID: 927996339 | Time: 2024-06-27 17:08:07.236850 | Command: /bgmi | Target: 20.219.21.162 | Port: 26562 | Time: 120
+Username: @deexyzfujf
+Target: 20.219.21.162
+Port: 26562
+Time: 120
+
+UserID: 927996339 | Time: 2024-06-27 17:13:58.096653 | Command: /bgmi | Target: 20.204.130.58 | Port: 15885 | Time: 180
+Username: @deexyzfujf
+Target: 20.204.130.58
+Port: 15885
+Time: 180
+
+UserID: 927996339 | Time: 2024-06-27 17:17:08.816687 | Command: /bgmi | Target: 20.204.130.58 | Port: 15885 | Time: 120
+UserID: 927996339 | Time: 2024-06-27 17:17:22.329292 | Command: /bgmi | Target: 20.204.130.58 | Port: 15885 | Time: 120
+Username: @deexyzfujf
+Target: 20.204.130.58
+Port: 15885
+Time: 120
+
+UserID: 927996339 | Time: 2024-06-27 17:30:41.365386 | Command: /bgmi | Target: 20.235.145.242 | Port: 25631 | Time: 120
+Username: @deexyzfujf
+Target: 20.235.145.242
+Port: 25631
+Time: 120
+
+UserID: 927996339 | Time: 2024-06-27 17:32:48.299174 | Command: /bgmi | Target: 20.235.145.242 | Port: 25631 | Time: 180
+Username: @deexyzfujf
+Target: 20.235.145.242
+Port: 25631
+Time: 180
+
+UserID: 927996339 | Time: 2024-06-27 17:48:01.687811 | Command: /bgmi | Target: 20.204.16.221 | Port: 29388 | Time: 180
+Username: @deexyzfujf
+Target: 20.204.16.221
+Port: 29388
+Time: 180
+
+UserID: 927996339 | Time: 2024-06-27 17:52:11.472736 | Command: /bgmi | Target: 20.204.16.221 | Port: 29388 | Time: 120
+UserID: 927996339 | Time: 2024-06-27 17:52:57.145008 | Command: /bgmi | Target: 20.204.16.221 | Port: 29388 | Time: 120
+Username: @deexyzfujf
+Target: 20.204.16.221
+Port: 29388
+Time: 120
+
